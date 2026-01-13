@@ -14,3 +14,8 @@ Networkteam:
         saltLength: 12
         # HMAC key for challenge calculation and solution verification
         hmac:
+
+Neos:
+  Fusion:
+    defaultContext:
+      Altcha: 'Networkteam\Flow\Altcha\Eel\Helper\AltchaHelper'

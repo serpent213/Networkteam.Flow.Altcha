@@ -7,7 +7,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "neos/flow": "~8.3",
+        "neos/flow": "^8.3 || ^9.0",
         "altcha-org/altcha": "~1.1"
     },
     "autoload": {
