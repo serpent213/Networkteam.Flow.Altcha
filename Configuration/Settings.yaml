@@ -4,7 +4,7 @@ Networkteam:
       challenge:
         # Hashing algorithm to use (`SHA-1`, `SHA-256`, `SHA-512`, default:`SHA-256`)
         algorithm: SHA-256
-        # Minimum number for the random number generator (default: 5,0000)
+        # Minimum number for the random number generator (default: 5,000)
         minNumber: 5000
         # Maximum number for the random number generator (default: 1,000,000)
         maxNumber: 1000000
